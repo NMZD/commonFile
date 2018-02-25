@@ -49,7 +49,7 @@ frame{display: block;}
 .f-cb,.f-cbli li{zoom:1;}
 .f-pr{position:relative;}
 .f-prz{position:relative;zoom:1;}
-.f-oh{overflow:hidden;}
+.f-oh{overflow:hidden; -webkit-overflow-scrolling: touch;}
 .f-fl{float:left; display: inline;}
 .f-fr{float:right; display: inline;}
 .f-ib{display:inline-block;*display:inline;*zoom:1;}
