@@ -125,8 +125,8 @@ frame{display: block;}
 .g-fdc {-webkit-flex-direction: column;flex-direction: column;}
 .g-fww {-webkit-flex-wrap: wrap;flex-wrap: wrap;}
 .g-asc {-webkit-align-self: center;align-self: center;}
-.g-alfs {-webkit-align-items: flex-start;align-items: flex-start;}
-.g-alc {-webkit-align-items: center;align-items: center;}
+.g-aifs {-webkit-align-items: flex-start;align-items: flex-start;}
+.g-aic {-webkit-align-items: center;align-items: center;}
 .g-jcsb {-webkit-justify-content: space-between;justify-content: space-between;}
 .g-jcfe {-webkit-justify-content: flex-end;justify-content: flex-end;}
 .g-jcc {-webkit-justify-content: center;justify-content: center;}
