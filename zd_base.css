@@ -1,5 +1,5 @@
 /*
- * zhangda 2016-12-28
+ * zhangda 2018-05-27
  */
  @charset "utf-8";
  /* 重置 reset */
@@ -42,6 +42,7 @@
  img,input,select,label{vertical-align: middle;}
  input,select,textarea{font-size: 100%;}
  frame{display: block;}
+ [v-clock] {display: none;}
  
  /* 功能 function */
  .f-cb:after,.f-cbli li:after{display:block;clear:both;visibility:hidden;height:0;overflow:hidden;content:".";}
